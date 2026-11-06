@@ -19,9 +19,10 @@ This Physical representation of a [bloch sphere](https://en.wikipedia.org/wiki/B
 |58mm Plastic Omni Wheel | 3|26.55 |[Robotshop](https://eu.robotshop.com/products/58mm-plastic-omni-wheel-compatible-servos-lego-mindstorms-nxt) | |
 | Plastic Sphere|1 | | | |
 |Adafruit USB PD Breakout |1 |5.50 |[Adafruit](https://www.adafruit.com/product/5807) | |
-|USB PD power supply |1 | | |Any that can supply 9V should work |
-|rubber feet | | | | |
-|bolts |4 | | | |
+|USB PD power supply+cable |1 | | |Any that can supply 9V should work |
+|rubber feet |4 | | | |
+|M3x30 |4 | | | |
+|M3x6 countersunk 124 | | | |
 |nuts |4 | | | |
 |ty-rap | | | | |
 | connectors 4 pin male| 3| | | |
